@@ -33,6 +33,7 @@ while True:
         hatalari.freq(4444)
         sleep_ms(250)      # í 250 ms.
         hatalari.duty(0)
+        space=num*-1
         
         
     if takki_B.value() ==0:
@@ -57,3 +58,4 @@ while True:
         hatalari.freq(4444)
         sleep_ms(250)      # í 250 ms.
         hatalari.duty(0)
+        space=num
