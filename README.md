@@ -1,6 +1,7 @@
 # h26_h4_spil-1
 Róbert Orri Finnson, Jóhann Einar Árnason
   
+  
 ## Leikreglur
 
 Síðastur allan hringinn vinnur  
